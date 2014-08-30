@@ -1,6 +1,11 @@
 #!/usr/bin/python
 #
-# Copyright 2014 Daniel Bruce
+# Originally written by Daniel Bruce
+#
+# This code is in the public domain. Feel to free to do whatever you'd like
+# with the code, though I'd appreciate if you keep the header maintaining that
+# I am the original author.
+
 from sys import argv, stdin, exit
 
 class AutoComplete :
